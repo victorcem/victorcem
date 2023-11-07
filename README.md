@@ -33,12 +33,12 @@ Um abraço!
   </div>
     
 <div><br>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=AppBase&theme=outrun">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=compose_tools_kit&theme=outrun">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=google_course_jetpack_compose_mars_photos&theme=outrun">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=google_course_jetpack_compose_article&theme=outrun">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=FilmesCoroutines&theme=outrun">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=google_course_jetpack_compose_quadrant&theme=outrun">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=AppBase&theme=outrun">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=compose_tools_kit&theme=outrun">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=google_course_jetpack_compose_mars_photos&theme=outrun">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=google_course_jetpack_compose_article&theme=outrun">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=FilmesCoroutines&theme=outrun">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=google_course_jetpack_compose_quadrant&theme=outrun">
 </div>
 <div><br>
   <picture>
