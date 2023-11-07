@@ -14,7 +14,7 @@ Se você quiser conversar sobre tecnologia, livros, jogos de RPG ou apenas bater
 Um abraço!
 <br><br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api?username=victorcem&show_icons=true&theme=outrun&count_private=true">  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcem&layout=compact&theme=outrun">
+<img width="52%" src="https://github-readme-stats.vercel.app/api?username=victorcem&show_icons=true&theme=outrun&count_private=true">  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcem&layout=compact&theme=outrun">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
