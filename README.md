@@ -1,4 +1,6 @@
-### Salve! Eu sou o Victor Otavio 👋
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salve!+👋;+Eu+sou+o+Victor+Otavio!;" />
+</h1>
 
 <br>
 E aí, tudo tranquilo?
@@ -17,25 +19,19 @@ Um abraço!
 <img width="52%" src="https://github-readme-stats.vercel.app/api?username=victorcem&show_icons=true&theme=outrun&count_private=true">  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcem&layout=compact&theme=outrun">
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,spring" />
 </div>
   
  
 <div><br><br>
-  <a href = "mailto:victorcem@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" target="_blank"></a>
+  <a href = "mailto:victorcem@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=outlook&logoColor=white)" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-otavio-s-n-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </div>
     
 <div><br>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=AppBase&theme=outrun">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=compose_tools_kit&theme=outrun">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=google_course_jetpack_compose_mars_photos&theme=outrun">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=Paging3_Compose&theme=outrun">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=google_course_jetpack_compose_article&theme=outrun">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=FilmesCoroutines&theme=outrun">
   <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=victorcem&repo=google_course_jetpack_compose_quadrant&theme=outrun">
